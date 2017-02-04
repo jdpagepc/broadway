@@ -10,4 +10,28 @@ html {
 
 .btn-nav {
 	color: white;
+	font-size: 18px;
+}
+
+.chapter {
+	font-size: 23px;
+}
+
+p {
+	font-size: 14px;
+}
+
+.footer {
+	background-color: dimgrey;
+	text-align: left;
+	color: white;
+	font-size: 11px;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+h2 {
+	font-size: 30px;
 }
